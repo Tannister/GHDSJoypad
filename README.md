@@ -7,6 +7,7 @@ A LUA script to make using guitars on GHDS games require less BloatWare(tm)
 ### Required : 
 - [DeSmuME](https://desmume.org/)
 - Lua 5.1.5 DLL [(x32)](https://sourceforge.net/projects/luabinaries/files/5.1.5/Windows%20Libraries/Dynamic/lua-5.1.5_Win32_dll16_lib.zip/download) [(x64)](https://sourceforge.net/projects/luabinaries/files/5.1.5/Windows%20Libraries/Dynamic/lua-5.1.5_Win64_dll16_lib.zip/download)
+- [GHDS Joypad.lua](https://github.com/arcanxeros/GHDSJoypad/raw/main/GHDS%20Joypad.lua)
 
 ### Lua51.dll
 DeSmuME doesnt have the lua51.dll included by default. This dll is required to execute lua scripts.  
