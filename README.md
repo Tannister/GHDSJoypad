@@ -1,7 +1,7 @@
 ![BADGE](https://img.shields.io/badge/Version-R_1.0.0-green)
 # GHDS Joypad
 
-A LUA script to make using guitars on GHDS games require less BloatWare(tm)
+A LUA script to make using guitars on GHDS games require less BloatWare(tm) (namely antimicrox and autohotkey)
 
 ## Installation
 ### Required : 
